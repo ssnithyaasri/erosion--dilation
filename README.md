@@ -36,7 +36,7 @@ img = np.zeros((100, 400), dtype='uint8')
 # Create the Text using cv2.putText
 ```
 # Put some text on the image for demonstration
-cv2.putText(img, 'KOUSALYA', (60, 70), cv2.FONT_HERSHEY_SIMPLEX, 2, (255), 5)
+cv2.putText(img, 'NITHYAA', (60, 70), cv2.FONT_HERSHEY_SIMPLEX, 2, (255), 5)
 ```
 
 
